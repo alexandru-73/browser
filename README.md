@@ -1,4 +1,4 @@
-[![Donate](https://www.paypalobjects.com/us_US/US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/petrarualexandru/5)
+[![Donate](https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png)](https://www.paypal.me/petrarualexandru/5)
 
 # Browser
 A simple Android browser based on webview. The goal is to provide a lightweight but power full browser. It is based on several 
